@@ -1,4 +1,4 @@
-## 👋 Hi I'm Mitchell, working in (re)insurance and an aspiring developer 
+## 👋 Hi I'm Mitchell, passionate about software engineering. 
     ⚒️ Python & R
     👀 I’m interested in Software Engineering & Data Science 
     🌱 I’m currently learning Julia 
